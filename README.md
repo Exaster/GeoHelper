@@ -1,44 +1,37 @@
- 
+# GeoData App
 
-
-# Intelligent Study Assistant (ISA or PNUapp)
-![ISA Logo](https://github.com/Exaster/ISA/blob/main/screenshots/PNU.png)
-
-
-
-ISA (Intelligent Study Assistant) is a Flutter app designed to help you organize your study sessions, access relevant information, and interact with AI chatbots. The app is customizable, allowing you to personalize your experience.
+GeoData App is a Flutter application designed to provide various geographic tools and resources to users. It offers features such as geolocation, calculator, map integration, and access to external web resources. The app aims to assist users in their geographic studies and related tasks.
 
 ## Features
 
-- **Study Organization**: Keep track of your study materials, notes, and tasks in one place.
-- **AI Chat**: Interact with AI chatbots for assistance and information.
-- **Customization**: Personalize the app's theme and colors.
-- **Web Links**: Quick access to frequently used web links.
-- **User-friendly Interface**: Clean and intuitive UI for an efficient user experience.
+- **Geolocation**: Access your current location and related information.
+- **Calculator**: Utilize geographic calculation tools for various purposes.
+- **Map Integration**: Seamlessly navigate to Google Maps for location-based services.
+- **External Resources**: Access external websites and tools for additional geographic data and assistance.
 
 ## Screenshots
-<p align="center">
-    <img src="https://github.com/Exaster/ISA/blob/main/screenshots/main_screen.png" width="200" alt="Home Screen">
-    <img src="https://github.com/Exaster/ISA/blob/main/screenshots/AI.png" width="200" alt="AI Chat"> <br>
-    <img src="https://github.com/Exaster/ISA/blob/main/screenshots/colors.png" width="200" alt="Customization">
-    <img src="https://github.com/Exaster/ISA/blob/main/screenshots/presentation.png" width="200" alt="Presentation"> <br>
-    <img src="https://github.com/Exaster/ISA/blob/main/screenshots/name.png" width="200" alt="User Customization">
-    <img src="https://github.com/Exaster/ISA/blob/main/screenshots/sidemenu.png" width="200" alt="User Customization">
-</p>
 
+<p align="center">
+    <img src="https://example.com/screenshot1.png" width="200" alt="Screenshot 1">
+    <img src="https://example.com/screenshot2.png" width="200" alt="Screenshot 2"> <br>
+    <img src="https://example.com/screenshot3.png" width="200" alt="Screenshot 3">
+    <img src="https://example.com/screenshot4.png" width="200" alt="Screenshot 4"> <br>
+    <img src="https://example.com/screenshot5.png" width="200" alt="Screenshot 5">
+    <img src="https://example.com/screenshot6.png" width="200" alt="Screenshot 6">
+</p>
 
 ## Installation
 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Exaster/ISA.git
+   git clone https://github.com/yourusername/your-repository.git
    ```
 
 2. Open the project in Flutter:
 
    ```bash
-   cd ISA
+   cd your-repository
    flutter pub get
    ```
 
@@ -50,15 +43,15 @@ ISA (Intelligent Study Assistant) is a Flutter app designed to help you organize
 
 ## Usage
 
-- Organize your study materials by adding notes.
-- Flexible customization.
-- Access your all basic websites for studying in the university with one tap.
-- Interact with popular AI chatbots for quick information and small help.
-- University in your smartphone!
+- Explore geographic tools and resources.
+- Utilize the calculator for geographic calculations.
+- Access your current location and related data.
+- Navigate to Google Maps for location-based services.
+- Access external web resources for additional information.
 
 ## Contributing
 
-Contributions to ISA are welcome! You can contribute by:
+Contributions to the GeoData App are welcome! You can contribute by:
 
 - Reporting issues.
 - Implementing new features or improvements.
@@ -66,33 +59,15 @@ Contributions to ISA are welcome! You can contribute by:
 
 ## License
 
-Feel free to improve or remake for your own legal purpose!
+This project is licensed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
 
-I would like not to leave here my personal info for some reasons:)
-
-You can also create an issue on GitHub if you encounter any problems or have suggestions.
+You can create an issue on GitHub if you encounter any problems or have suggestions.
 
 ## Acknowledgments
 
 - [Flutter](https://flutter.dev): The framework used to build this app.
 - [Dart](https://dart.dev/guides): The programming language used to build this app.
 
-## See extra
-
-Easy check of released versions of app without headache [ISA`s release](https://github.com/Exaster/ISA-release)
-
-
-
-Thank you for using ISA and overlooking it as a simple educational project!
-
-
-
-Another pet-project:
-
-
-![Space Station 14](https://cdn.cloudflare.steamstatic.com/steam/apps/1255460/capsule_616x353.jpg?t=1684170495) <br>
-Chemistry Helper for Space Station 14 [here](https://github.com/Exaster/Space-Station-14-Chemistry-Helper)
-
-
+Thank you for using GeoData App and contributing to its development!
