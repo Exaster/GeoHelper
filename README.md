@@ -15,12 +15,12 @@ GeoData App is a Flutter application designed to provide various geographic tool
 ## Screenshots
 
 <p align="center">
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot1.png" width="400" alt="Screenshot 1">
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot2.png" width="400" alt="Screenshot 2"> <br>
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot3.png" width="400" alt="Screenshot 3">
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot4.png" width="400" alt="Screenshot 4"> <br>
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot5.png" width="400" alt="Screenshot 5">
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot6.png" width="400" alt="Screenshot 6">
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot1.png" width="500" alt="Screenshot 1">
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot2.png" width="500" alt="Screenshot 2"> <br>
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot3.png" width="500" alt="Screenshot 3">
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot4.png" width="500" alt="Screenshot 4"> <br>
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot5.png" width="500" alt="Screenshot 5">
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot6.png" width="500" alt="Screenshot 6">
 </p>
 
 
