@@ -1,6 +1,6 @@
 # GeoData App
 <p align="center">
-    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/screenshot1.png" >
+    <img src="https://github.com/Exaster/GeoHelper/blob/main/screenshots/logo.png" >
  
 </p>
 GeoData App is a Flutter application designed to provide various geographic tools and resources to users. It offers features such as geolocation, calculator, map integration, and access to external web resources. The app aims to assist users in their geographic studies and related tasks.
