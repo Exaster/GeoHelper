@@ -56,5 +56,28 @@
       });
     });
   </script>
+  <script type="module">
+    // Import the functions you need from the SDKs you need
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.11.0/firebase-analytics.js";
+    // TODO: Add SDKs for Firebase products that you want to use
+    // https://firebase.google.com/docs/web/setup#available-libraries
+  
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyBpifymQi2Y96O_JTJ09ShEiZlvr-O1JKM",
+      authDomain: "geohelper-flutter.firebaseapp.com",
+      projectId: "geohelper-flutter",
+      storageBucket: "geohelper-flutter.appspot.com",
+      messagingSenderId: "286443243569",
+      appId: "1:286443243569:web:6feaf6c90c752660fb2d10",
+      measurementId: "G-C1WGSWM62P"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
 </body>
 </html>
