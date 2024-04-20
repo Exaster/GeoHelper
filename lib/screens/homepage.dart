@@ -119,21 +119,31 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             ListTile(
               leading: const Icon(Icons.build), // Wrench icon
-              title: const Text('Doom'),
+              title: const Text('EOS'),
               onTap: () {
                 _launchURL(
                   context,
-                  'https://floooh.github.io/doom-sokol/',
+                  'https://auth.eos.com/#!/sign-in?return_url=https:%2F%2Fapi-connect.eos.com%2Fuser-dashboard%2Fstatistics',
                 );
               },
             ),
             ListTile(
-              leading: const Icon(Icons.sentiment_satisfied), // Wrench icon
-              title: const Text('Memes'),
+              leading: const Icon(Icons.location_on), // Wrench icon
+              title: const Text('Land viewer'),
               onTap: () {
                 _launchURL(
                   context,
-                  'https://anjalisharma1234.github.io/Random-meme-generator/',
+                  'https://eos.com/landviewer/',
+                );
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.location_on), // Wrench icon
+              title: const Text('GGOS'),
+              onTap: () {
+                _launchURL(
+                  context,
+                  'https://ggos.org/',
                 );
               },
             ),
